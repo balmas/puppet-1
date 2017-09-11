@@ -12,7 +12,7 @@
     - 'admin'
     - 'vagrant'
   site::handle_prefix: '12345'
-  site::ip_address: ''
+  site::ip_address: '54.174.228.41'
   site::admin_email: 'admin@example.org'
   slack_webhook_url: ''
   cordra::admin_password: 'dummy'
